@@ -5,7 +5,7 @@
 <img src="https://img.icons8.com/color/200/html-5--v1.png" width="120"/>
 
 ![HTML](https://img.shields.io/badge/Language-HTML5-orange)
-![Progress](https://img.shields.io/badge/Progress-24%2F30%20Days-blue)
+![Progress](https://img.shields.io/badge/Progress-26%2F30%20Days-blue)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-success)
 
 🚀 Learn HTML step by step in 30 days
@@ -42,7 +42,9 @@
 - [x] Day 22 - Add Fieldset & Legend  
 - [x] Day 23 - Use Required Attribute  
 - [x] Day 24 - Use Placeholder Attribute  
-
+- [x] Day 25 - Use autofocus attribute to set focus on form fields
+- [x] Day 26 - Use target attribute to open link in new tab
+  
 ---
 
 ## 🛠 Tech Stack
