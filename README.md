@@ -4,7 +4,7 @@
 <br clear="both"/>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:9B5DE5,100:00BBF9&height=200&section=header&text=30%20Days%20of%20HTML&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=🚀%20A%2030-Day%20Journey%20from%20Zero%20to%20HTML%20Hero&descAlignY=58&descAlign=50" alt="header banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:9B5DE5,100:00BBF9&height=200&section=header&text=30%20Days%20of%20HTML&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=🚀%20A%2030-Day%20Journey%20from%20Zero%20to%20HTML%20Hero&descAlignY=58&descAlign=50" width="140" alt="header banner"/>
 </p>
 
 <p align="center">
