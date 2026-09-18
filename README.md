@@ -1,11 +1,16 @@
-<img align="left" src="https://github.com/user-attachments/assets/90c19f97-8b0b-4df1-96c4-a288d337503c" width="140" alt="Shah Rishabh badge logo"/>
-<img align="right" src="https://github.com/user-attachments/assets/41de0edc-f0a3-474a-9156-d8b3d10d41ba" width="140" alt="Shah Rishabh badge logo"/>
-
-<br clear="both"/>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:9B5DE5,100:00BBF9&height=200&section=header&text=30%20Days%20of%20HTML&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=🚀%20A%2030-Day%20Journey%20from%20Zero%20to%20HTML%20Hero&descAlignY=58&descAlign=50" width="140" alt="header banner"/>
-</p>
+<table width="100%">
+  <tr>
+    <td width="15%" align="center" valign="middle">
+      <img src="https://github.com/user-attachments/assets/90c19f97-8b0b-4df1-96c4-a288d337503c" width="120" alt="Shah Rishabh badge logo"/>
+    </td>
+    <td width="70%" align="center" valign="middle">
+      <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:9B5DE5,100:00BBF9&height=180&section=header&text=30%20Days%20of%20HTML&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=🚀%20A%2030-Day%20Journey%20from%20Zero%20to%20HTML%20Hero&descAlignY=58&descAlign=50" alt="header banner" width="100%"/>
+    </td>
+    <td width="15%" align="center" valign="middle">
+      <img src="https://github.com/user-attachments/assets/41de0edc-f0a3-474a-9156-d8b3d10d41ba" width="120" alt="Shah Rishabh badge logo"/>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <a href="https://github.com/shahrishabh1513-jsk/30day-html-learning-challenge-">
